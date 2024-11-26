@@ -1,7 +1,8 @@
 # EX 4 SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
 ```
-Reg no: 212223240116
-Name: Ponguru Aasrith Sairam
+Reg no:212222040090
+
+Name: E madheswaran
 ```
  
 ## AIM :
